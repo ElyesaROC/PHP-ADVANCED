@@ -17,9 +17,9 @@ plaatsnaam: <input type="text" name="plaatsnaam"><br>
 muziekband: <input type="text" name="muziekband"><br>
 
 <p>geslacht</p>
-<input type="radio" id="male" name="gender" value="male">
+<input type="radio" id="male" name="male" value="male">
   <label for="male">Male</label><br>
-  <input type="radio" id="female" name="gender" value="female">
+  <input type="radio" id="female" name="female" value="female">
   <label for="female">Female</label><br>
   
 <input type="submit">

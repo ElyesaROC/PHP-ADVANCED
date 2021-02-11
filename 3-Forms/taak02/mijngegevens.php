@@ -8,6 +8,9 @@
  <?php echo $_POST["Adres"]; ?><br>
  <?php echo $_POST["plaatsnaam"]; ?><br>
  <?php echo $_POST["muziekband"]; ?><br>
+ <?php echo $_POST["male"]; ?><br>
+ <?php echo $_POST["female"]; ?><br>
+ 
 
 </body>
 </html>
